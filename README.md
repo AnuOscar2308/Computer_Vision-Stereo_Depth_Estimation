@@ -59,9 +59,9 @@ The output includes:
 - Final depth image
 
 ## Output Images:
-<img width="512" height="512" alt="ball_left_new_corners" src="https://github.com/user-attachments/assets/e0cb806f-67a4-4c8c-b7d0-9c32c8e70a4b" />
-<img width="512" height="512" alt="ball_right_new_corners" src="https://github.com/user-attachments/assets/9654fdc3-9293-4344-bca7-320ecf451206" />
-<img width="512" height="512" alt="ball_depth" src="https://github.com/user-attachments/assets/8308fc50-fd1c-4a32-a645-942ceb4c2919" />
+<img width="256" height="256" alt="ball_left_new_corners" src="https://github.com/user-attachments/assets/e0cb806f-67a4-4c8c-b7d0-9c32c8e70a4b" />
+<img width="256" height="256" alt="ball_right_new_corners" src="https://github.com/user-attachments/assets/9654fdc3-9293-4344-bca7-320ecf451206" />
+<img width="256" height="256" alt="ball_depth" src="https://github.com/user-attachments/assets/8308fc50-fd1c-4a32-a645-942ceb4c2919" />
 
 
 
