@@ -65,7 +65,7 @@ The output includes:
 <img width="256" height="256" alt="ball_depth" src="https://github.com/user-attachments/assets/8308fc50-fd1c-4a32-a645-942ceb4c2919" />
 
 ### Moebius Image Results:
-<img width="463" height="370" alt="Moebius_left_corners" src="https://github.com/user-attachments/assets/3fcf9ac1-0ed3-4435-b01c-6c767fd6e3f1" />
+<img width="256" height="256" alt="Moebius_left_corners" src="https://github.com/user-attachments/assets/3fcf9ac1-0ed3-4435-b01c-6c767fd6e3f1" />
 <img width="463" height="370" alt="Moebius_right_corners" src="https://github.com/user-attachments/assets/079177c7-4d2e-4e27-b766-08c666810e8b" />
 <img width="463" height="370" alt="Moebius_depth" src="https://github.com/user-attachments/assets/68cbcd83-fd1c-44ee-a0cd-c3a8fe1dea58" />
 
