@@ -70,9 +70,9 @@ The output includes:
 <img width="290" height="256" alt="Moebius_depth" src="https://github.com/user-attachments/assets/68cbcd83-fd1c-44ee-a0cd-c3a8fe1dea58" />
 
 ### Outdoor Image Results:
-<img width="290" height="256" alt="Outdoor_left_corners" src="https://github.com/user-attachments/assets/5d0d3f3b-3e95-4814-81f0-89132cb4b1e3" />
-<img width="290" height="256" alt="Outdoor_right_corners" src="https://github.com/user-attachments/assets/05604def-ef8f-44b7-880e-0b89af8208ed" />
-<img width="290" height="256" alt="Outdoor_depth" src="https://github.com/user-attachments/assets/29ffdd1e-c0c5-4f7f-ae72-f72d434c0eef" />
+<img width="290" height="270" alt="Outdoor_left_corners" src="https://github.com/user-attachments/assets/5d0d3f3b-3e95-4814-81f0-89132cb4b1e3" />
+<img width="290" height="270" alt="Outdoor_right_corners" src="https://github.com/user-attachments/assets/05604def-ef8f-44b7-880e-0b89af8208ed" />
+<img width="290" height="270" alt="Outdoor_depth" src="https://github.com/user-attachments/assets/29ffdd1e-c0c5-4f7f-ae72-f72d434c0eef" />
 
 ## Skills:
 - **Computer Vision:** Stereo vision geometry, Feature detection, Depth reconstruction
