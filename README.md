@@ -66,8 +66,8 @@ The output includes:
 
 ### Moebius Image Results:
 <img width="256" height="256" alt="Moebius_left_corners" src="https://github.com/user-attachments/assets/3fcf9ac1-0ed3-4435-b01c-6c767fd6e3f1" />
-<img width="231" height="185" alt="Moebius_right_corners" src="https://github.com/user-attachments/assets/079177c7-4d2e-4e27-b766-08c666810e8b" />
-<img width="463" height="370" alt="Moebius_depth" src="https://github.com/user-attachments/assets/68cbcd83-fd1c-44ee-a0cd-c3a8fe1dea58" />
+<img width="256" height="256" alt="Moebius_right_corners" src="https://github.com/user-attachments/assets/079177c7-4d2e-4e27-b766-08c666810e8b" />
+<img width="256" height="256" alt="Moebius_depth" src="https://github.com/user-attachments/assets/68cbcd83-fd1c-44ee-a0cd-c3a8fe1dea58" />
 
 ### Outdoor Image Results:
 <img width="360" height="240" alt="Outdoor_left_corners" src="https://github.com/user-attachments/assets/5d0d3f3b-3e95-4814-81f0-89132cb4b1e3" />
